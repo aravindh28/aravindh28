@@ -7,27 +7,25 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-*MS in Data Science at the University of Washington. Interested in data engineering, applied AI, and building tools that make workflows simpler.*
+*MS in Data Science at the University of Washington. Interested in data engineering, applied AI, and building automations using LLMs.*
 
-- Currently working on agentic AI systems and scalable data pipelines
-- Previously built analytics solutions across cloud platforms
-- Open to collaborating on data-intensive and ML-driven projects
 
-### Projects
+### Recent Projects
 
-**Sequel2SQL** -- Agentic LLM + RAG framework for PostgreSQL error diagnosis and optimization. UW capstone project sponsored by Microsoft. [repo](https://github.com/SVijayB/sequel2sql)
+**Sequel2SQL** --  LLM + RAG framework for SQL error diagnosis and optimization using a database agent. UW capstone project sponsored by Microsoft. [repo](https://github.com/SVijayB/sequel2sql)
+
+**google-places-analysis** -- Reviews analysis project using Google Places API. [repo](https://github.com/aravindh28/google-places-analysis)
 
 **aws-cp-creds** -- Shell script to automate pasting AWS credentials. [repo](https://github.com/aravindh28/aws-cp-creds)
 
-**google-places-analysis** -- Analysis project using Google Places API. [repo](https://github.com/aravindh28/google-places-analysis)
 
 ### Tech Stack
 
-**Languages:** Python, SQL, Shell
-**Frameworks:** FastAPI, Streamlit, Apache Spark
-**ML/Data:** PyTorch, scikit-learn, Pandas, NumPy
-**Databases:** PostgreSQL, MongoDB, MySQL, Snowflake
-**Cloud & Tools:** AWS, Git
+**Languages:** Python, SQL\
+**Frameworks:** FastAPI, Streamlit, Spark/PySpark\
+**ML/Data:** PyTorch, scikit-learn, Pandas, Polars\
+**Databases:** PostgreSQL, MongoDB, MS SQL Server, Snowflake\
+**Cloud & Tools:** AWS, Git, Shell Scripting
 
 ### GitHub Stats
 
