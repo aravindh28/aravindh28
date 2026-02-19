@@ -1,3 +1,5 @@
+<div align="center">
+
 # Aravindh Manavalan
 
 <a href="https://aravindh28.github.io/"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> <a href="https://linkedin.com/in/aravindh-manavalan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ara.manavalan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -5,6 +7,8 @@
 *MS in Data Science at the University of Washington. Interested in data engineering, applied AI, and building automations using LLMs.*
 
 ---
+
+</div>
 
 ### Recent Projects
 
@@ -26,27 +30,23 @@
 
 ---
 
+<div align="center">
+
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aravindh28&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://nirzak-streak-stats.vercel.app/?user=aravindh28&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aravindh28&theme=github_dark" alt="Profile Details"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aravindh28&theme=github_dark" alt="Profile Details"/>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aravindh28&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aravindh28&theme=github_dark&utcOffset=8" alt="Productive Time"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aravindh28&theme=github_dark" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aravindh28&theme=github_dark&utcOffset=8" alt="Productive Time"/>
 
 ---
 
 ### LeetCode Stats
 
-<p align="left">
-  <a href="https://leetcode.com/u/zyzzie28/">
-    <img src="https://leetcard.jacoblin.cool/zyzzie28?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
+<a href="https://leetcode.com/u/zyzzie28/">
+  <img src="https://leetcard.jacoblin.cool/zyzzie28?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+</div>
