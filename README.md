@@ -1,6 +1,7 @@
 # Aravindh Manavalan
 MS in Data Science at the University of Washington.  
 Interested in data engineering, applied AI, and building automations using LLMs.
+
 <a href="https://aravindh28.github.io/"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://linkedin.com/in/aravindh-manavalan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ara.manavalan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
