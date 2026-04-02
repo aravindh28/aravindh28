@@ -24,10 +24,13 @@ I love solving data problems with SQL and Python Dataframe APIs (Polars, Pyspark
 <div align="center">
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=aravindh28&theme=github-dark-blue&hide_border=true)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aravindh28&theme=github_dark)
+
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=aravindh28&theme=github-dark-blue&hide_border=true) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aravindh28&theme=github_dark) |
+|:---:|:---:|
 
 ## LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/zyzzie28?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/zyzzie28/)
+
+| [![LeetCode Stats](https://leetcard.jacoblin.cool/zyzzie28?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/zyzzie28/) | ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=zyzzie28&theme=dark&border=no-border&animated=true) |
+|:---:|:---:|
 
 </div>
