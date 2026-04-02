@@ -24,7 +24,7 @@ I love solving data problems with SQL and Python Dataframe APIs (Polars, Pyspark
 <div align="center">
 
 ## GitHub Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aravindh28&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aravindh28&theme=github-dark-blue&hide_border=true)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aravindh28&theme=github_dark)
 
 ## LeetCode Stats
