@@ -1,7 +1,7 @@
 # Aravindh Manavalan
 **MS in Data Science at the University of Washington**
 
-I love solving data problems with SQL and Python Dataframe APIs (Polars, Pyspark, Pandas). Interests include data engineering, applied AI, and building automations using LLMs. 
+I love solving data problems using SQL and Dataframe APIs (polars, pyspark, pandas). Interests include data engineering, applied AI, and building automations using LLMs. 
 
 <a href="https://aravindh28.github.io/"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://linkedin.com/in/aravindh-manavalan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,8 +16,8 @@ I love solving data problems with SQL and Python Dataframe APIs (Polars, Pyspark
 | Category | Tools |
 | :--- | :--- |
 | Languages | Python, SQL, Shell Scripting |
-| Frameworks | FastAPI, Streamlit, PySpark |
-| ML/Data | PyTorch, scikit-learn, Pandas, Polars |
+| Frameworks | FastAPI, Streamlit, Spark |
+| ML/Data | PyTorch, scikit-learn, pandas, polars |
 | Databases | PostgreSQL, MongoDB, Snowflake |
 | Cloud/Tools | AWS, Git |
 
