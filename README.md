@@ -19,7 +19,7 @@ I love solving data problems using SQL and Dataframe APIs (polars, pyspark, pand
 | Frameworks | FastAPI, Streamlit, Spark |
 | ML/Data | PyTorch, scikit-learn, pandas, polars |
 | Databases | PostgreSQL, MongoDB, Snowflake |
-| Cloud/Tools | AWS, Git |
+| Cloud/Tools | AWS, Git, dbt |
 
 <div align="center">
 
