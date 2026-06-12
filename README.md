@@ -27,7 +27,7 @@ I love solving problems through harnessing the power of data and great storytell
 | Databases | PostgreSQL, Snowflake |
 | Cloud | AWS (S3, Lambda, Glue, Athena, Redshift) |
 | Visualization & Apps | Tableau, Streamlit, FastAPI |
-| Tools | Git, dbt, JIRA |
+| Tools | Git |
 
 <div align="center">
 
