@@ -12,8 +12,9 @@ I love solving problems through harnessing the power of data and great storytell
 
 - **Sequel2SQL** — LLM + RAG framework for SQL error diagnosis and correction using a database agent; improved baseline performance by 6% on the BIRD-CRITIC benchmark. UW capstone sponsored by Microsoft. *Python, PydanticAI, ChromaDB, PostgreSQL* — [Repo](https://github.com/SVijayB/sequel2sql)
 - **E-Commerce Analytics Pipeline** — Serverless AWS pipeline (S3, Lambda, Glue, Athena) using medallion architecture with data quality validation at each layer, serving analytics over 500K+ events. *Spark, Parquet* — [Report](https://docs.google.com/document/d/1L_YpSsvDuygdZa_SwVtKJmgNRnaqoj3d7mJxwDfO5cQ/edit?usp=sharing)
-- **google-places-analysis** — Review analysis using the Google Places API. *Python, pandas* — [Repo](https://github.com/aravindh28/google-places-analysis)
+- **google-places-analysis** — Analyzed business review response behavior on Google Places data using matched treatment/control groups and paired t-tests across 760K+ records; found responder businesses received 9 additional reviews on average. *Python, pandas, scipy, statsmodels* — [Repo](https://github.com/aravindh28/google-places-analysis)
 - **aws-cp-creds** — Shell utility that automates copying AWS credentials. — [Repo](https://github.com/aravindh28/aws-cp-creds)
+
 
 ## Tech Stack
 
