@@ -2,7 +2,7 @@
 
 **M.S. in Data Science, University of Washington**
 
-I love solving data problems with SQL and dataframe APIs (polars, pandas, PySpark). Interests include data engineering, applied AI and LLM automations, and experimentation.
+I love solving problems through harnessing the power of data and great storytelling! Interests include data engineering, applied AI and LLM automations, and experimentation.
 
 <a href="https://aravindh28.github.io/"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://linkedin.com/in/aravindh-manavalan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
